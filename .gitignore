@@ -1,0 +1,98 @@
+# Visual Studio Code and Visual Studio generated files
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.vscode/
+*.vs/
+
+# Binaries
+bin/
+obj/
+
+# Packages
+*.nuget.props
+*.nuget.targets
+*.lock.json
+*.paket.restore.log
+packages/
+*.sqlite
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017/2019 cache/options directory
+.vs/
+*.vspscc
+*.vspx
+
+# Visual Studio 2017/2019 cache files
+# Comment if you wish to check-in your NuGet package restore
+# Uncomment if you wish to ignore NuGet package restore
+# packages/
+!packages/*.config
+
+# Rider generated files
+.idea/
+*.sln.iml
+
+# ReSharper generated files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Xamarin
+*.apk
+*.ap_
+*.aab
+*.dll
+*.pdb
+*.so
+*.dSYM/
+*.ipa
+*.xcprivate
+*.xcuserdata
+*.xcworkspace
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Webpack
+/dist/
